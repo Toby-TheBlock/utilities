@@ -1,0 +1,14 @@
+{
+  "badges": [
+    {
+      "name": "creator",
+      "tooltip": "Pullbox extension creator",
+      "owners": ["Toby TheBlock"]
+    },
+    {
+      "name": "supporter",
+      "tooltip": "Valued extension user",
+      "owners": ["Lord Flarquad", "OurLordJesusChrist"]
+    }
+  ]
+}
