@@ -2,13 +2,22 @@
   "badges": [
     {
       "name": "creator",
-      "tooltip": "Pullbox extension creator",
+      "priority": 1,
+      "tooltip": "Extension creator",
       "owners": ["Toby TheBlock"]
     },
     {
+      "name": "nr1_supporter",
+      "priority": 2,
+      "tooltip": "Nr.1 extension supporter",
+      "owners": ["MentallyGrimm"]
+    },
+    {
       "name": "supporter",
-      "tooltip": "Valued extension user",
+      "priority": 3,
+      "tooltip": "Extension supporter",
       "owners": ["Lord Flarquad", "OurLordJesusChrist"]
     }
-  ]
+  ],
+  "streamers": ["MentallyGrimm", "333jaxon", "Flarbow"]
 }
