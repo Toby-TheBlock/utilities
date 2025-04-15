@@ -22,7 +22,7 @@
       "name": "gold_supporter",
       "priority": 10,
       "tooltip": "Gold tier supporter",
-      "owners": ["Flarbow", "Toby TheBlock"]
+      "owners": ["Flarbow"]
     },
     {
       "name": "silver_supporter",
