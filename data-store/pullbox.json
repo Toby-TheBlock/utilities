@@ -25,9 +25,9 @@
       "owners": ["OurLordJesusChrist", "PapaGryz", "TenshiFire"]
     },
     {
-      "name": "bonze_supporter",
+      "name": "bronze_supporter",
       "priority": 1000,
-      "tooltip": "Bonze tier supporter",
+      "tooltip": "Bronze tier supporter",
       "owners": [
         "TubSnakes",
         "YoungBruun: BRUNO",
