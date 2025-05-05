@@ -22,23 +22,24 @@
       "name": "silver_supporter",
       "priority": 100,
       "tooltip": "Silver tier supporter",
-      "owners": ["OurLordJesusChrist", "PapaGryz", "Trigonomics", "TenshiFire"]
+      "owners": ["OurLordJesusChrist", "Trigonomics", "PapaGryz", "TenshiFire"]
     },
     {
       "name": "bronze_supporter",
       "priority": 1000,
       "tooltip": "Bronze tier supporter",
       "owners": [
-        "TubSnakes",
         "notazombiecat",
+        "TubSnakes",
         "YoungBruun: BRUNO",
         "🔥Tiny Satan(666)🔥",
+        "Tybo",
         "theshortcircuit",
         "Sal Vulcano (Code: SAL)",
         "CD: SEAGULL",
         "One Step At A Time",
         "waifuwarrior9000",
-        "Tybo"
+        "Vahdis"
       ]
     }
   ],
