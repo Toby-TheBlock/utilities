@@ -22,7 +22,12 @@
       "name": "silver_supporter",
       "priority": 100,
       "tooltip": "Silver tier supporter",
-      "owners": ["OurLordJesusChrist", "Trigonomics", "Papa Code:GRYZ", "TenshiFire"]
+      "owners": [
+        "OurLordJesusChrist",
+        "Trigonomics",
+        "Papa Code:GRYZ",
+        "TenshiFire"
+      ]
     },
     {
       "name": "bronze_supporter",
@@ -38,9 +43,10 @@
         "Sal Vulcano (Code: SAL)",
         "CD: SEAGULL",
         "One Step At A Time",
-        "waifuwarrior9000",
         "spedinki",
-        "Vahdis"
+        "waifuwarrior9000",
+        "Vahdis",
+        "code BUG"
       ]
     }
   ],
