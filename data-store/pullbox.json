@@ -48,6 +48,17 @@
         "waifuwarrior9000",
         "Vahdis"
       ]
+    },
+    {
+      "name": "reviewer",
+      "priority": 1001,
+      "tooltip": "Reviewer",
+      "owners": ["SilverLuxray", "Bon_Gripz", "EndngrdDonut"],
+      "metadata": [
+        { "username": "SilverLuxray", "reviewUsername": "Silver_Luxray" },
+        { "username": "Bon_Gripz", "reviewUsername": "Bon_Gripz" },
+        { "username": "EndngrdDonut", "reviewUsername": "Vincent Barrette" }
+      ]
     }
   ],
   "streamers": ["MentallyGrimm", "333jaxon", "Flarbow"]
