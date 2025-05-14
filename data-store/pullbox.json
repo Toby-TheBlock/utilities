@@ -53,8 +53,13 @@
       "name": "reviewer",
       "priority": 1001,
       "tooltip": "Reviewer",
-      "owners": ["SilverLuxray", "Bon_Gripz", "EndngrdDonut"],
-      "metadata": [
+      "owners": [
+        "SilverLuxray",
+        "Bon_Gripz",
+        "EndngrdDonut",
+        "Bru|REWARD",
+        "Dakkon15639",
+        "VENUM (Code : VENUM)",
         { "username": "SilverLuxray", "reviewUsername": "Silver_Luxray" },
         { "username": "Bon_Gripz", "reviewUsername": "Bon_Gripz" },
         { "username": "EndngrdDonut", "reviewUsername": "Vincent Barrette" },
