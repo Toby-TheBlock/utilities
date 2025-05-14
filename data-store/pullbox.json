@@ -58,7 +58,11 @@
         { "username": "SilverLuxray", "reviewUsername": "Silver_Luxray" },
         { "username": "Bon_Gripz", "reviewUsername": "Bon_Gripz" },
         { "username": "EndngrdDonut", "reviewUsername": "Vincent Barrette" },
-        { "username": "Bru|REWARD", "reviewUsername": "Frank Geddes" }
+        { "username": "Bru|REWARD", "reviewUsername": "Frank Geddes" },
+        {
+          "username": "VENUM (Code : VENUM)",
+          "reviewUsername": "Francis Morrissette"
+        }
       ]
     }
   ],
