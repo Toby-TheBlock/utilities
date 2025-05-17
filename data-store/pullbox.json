@@ -16,7 +16,7 @@
       "name": "gold_supporter",
       "priority": 10,
       "tooltip": "Gold tier supporter",
-      "owners": ["Flarbow"]
+      "owners": ["Flarbow", "siggy"]
     },
     {
       "name": "silver_supporter",
