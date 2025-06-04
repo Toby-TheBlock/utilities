@@ -13,104 +13,107 @@
       "owners": [{ "username": "MentallyGrimm" }]
     },
     {
-      "name": "gold_supporter",
-      "priority": 10,
-      "tooltip": "Gold tier supporter",
-      "owners": [
-        {
-          "username": "Flarbow (FLAR) smells"
-        },
-        {
-          "username": "siggy"
+    "name": "gold_supporter",
+    "priority": 10,
+    "tooltip": "Gold tier supporter",
+    "owners": [
+      {
+        "username": "Flarbow (FLAR) smells"
+      },
+      {
+        "username": "NotEvan (HUGE)"
+      },
+      {
+        "username": "siggy"
+      }
+    ]
+  },
+  {
+    "name": "silver_supporter",
+    "priority": 100,
+    "tooltip": "Silver tier supporter",
+    "owners": [
+      {
+        "username": "prettypanda"
+      },
+      {
+        "username": "OurLordJesusChrist"
+      },
+      {
+        "username": "Trigonomics"
+      },
+      {
+        "username": "GRYZ"
+      },
+      {
+        "username": "VENUM Code : VENUM"
+      },
+      {
+        "username": "code BUG"
+      },
+      {
+        "username": "notazombiecat"
+      },
+      {
+        "username": "TenshiFire"
+      },
+      {
+        "username": "YoungBruun",
+        "metadata": {
+          "donatedAmount": 5
         }
-      ]
-    },
-    {
-      "name": "silver_supporter",
-      "priority": 100,
-      "tooltip": "Silver tier supporter",
-      "owners": [
-        {
-          "username": "prettypanda"
-        },
-        {
-          "username": "OurLordJesusChrist"
-        },
-        {
-          "username": "Trigonomics"
-        },
-        {
-          "username": "NotEvan (HUGE)"
-        },
-        {
-          "username": "GRYZ"
-        },
-        {
-          "username": "VENUM Code : VENUM"
-        },
-        {
-          "username": "code BUG"
-        },
-        {
-          "username": "notazombiecat"
-        },
-        {
-          "username": "TenshiFire"
-        },
-        {
-          "username": "YoungBruun",
-          "metadata": {
-            "donatedAmount": 5
-          }
-        }
-      ]
-    },
-    {
-      "name": "bronze_supporter",
-      "priority": 1000,
-      "tooltip": "Bronze tier supporter",
-      "owners": [
-        {
-          "username": "TubSnakes"
-        },
-        {
-          "username": "🔥Tiny Satan(666)🔥"
-        },
-        {
-          "username": "‎ ‎ ‎ ‎ Pigeon"
-        },
-        {
-          "username": "Tybo (TYBO)"
-        },
-        {
-          "username": "theshortcircuit"
-        },
-        {
-          "username": "OTTERbox"
-        },
-        {
-          "username": "Entropy_"
-        },
-        {
-          "username": "spedinki"
-        },
-        {
-          "username": "Sal Vulcano (Code: SAL)"
-        },
-        {
-          "username": "waifuwarrior9000"
-        },
-        {
-          "username": "Vahdis"
-        },
-        {
-          "username": "Mio (SEAGULL)"
-        },
-        {
-          "username": "One Step At A Time"
-        }
-      ]
-    },
+      }
+    ]
+  },
+  {
+    "name": "bronze_supporter",
+    "priority": 1000,
+    "tooltip": "Bronze tier supporter",
+    "owners": [
+      {
+        "username": "TubSnakes"
+      },
+      {
+        "username": "🔥Tiny Satan(666)🔥"
+      },
+      {
+        "username": "‎ ‎ ‎ ‎ Pigeon"
+      },
+      {
+        "username": "Tybo (TYBO)"
+      },
+      {
+        "username": "theshortcircuit"
+      },
+      {
+        "username": "OTTERbox"
+      },
+      {
+        "username": "Entropy_"
+      },
+      {
+        "username": "spedinki"
+      },
+      {
+        "username": "Sal Vulcano (Code: SAL)"
+      },
+      {
+        "username": "Vahdis"
+      },
+      {
+        "username": "waifuwarrior9000"
+      },
+      {
+        "username": "Mio (SEAGULL)"
+      },
+      {
+        "username": "One Step At A Time"
+      },
+      {
+        "username": "swedishstyle"
+      }
+    ]
+  },
     {
       "name": "reviewer",
       "priority": 1001,
