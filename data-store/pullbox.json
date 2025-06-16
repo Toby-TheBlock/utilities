@@ -28,6 +28,9 @@
         },
         {
           "username": "siggy"
+        },
+        {
+          "username": "Trigonomics"
         }
       ]
     },
@@ -36,9 +39,6 @@
       "priority": 100,
       "tooltip": "Silver tier supporter",
       "owners": [
-        {
-          "username": "Trigonomics"
-        },
         {
           "username": "prettypanda"
         },
@@ -95,10 +95,10 @@
           "username": "theshortcircuit"
         },
         {
-          "username": "OTTERbox"
+          "username": "spedinki"
         },
         {
-          "username": "spedinki"
+          "username": "OTTERbox"
         },
         {
           "username": "Entropy_"
