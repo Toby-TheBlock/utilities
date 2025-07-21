@@ -125,22 +125,28 @@
           "username": "Mio (SEAGULL)"
         },
         {
-          "username": "Azathar"
-        },
-        {
           "username": "Bobcigarette"
         },
         {
-          "username": "swedishstyle"
+          "username": "Azathar"
         },
         {
           "username": "Nomad code:(LYOKO)"
+        },
+        {
+          "username": "swedishstyle"
         }
       ]
     },
     {
+      "name": "marble",
+      "priority": 1500,
+      "tooltip": "Marble Wizard",
+      "owners": [{ "username": "KeyLimePyro (REWARD)" }]
+    },
+    {
       "name": "reviewer",
-      "priority": 1001,
+      "priority": 2000,
       "tooltip": "Reviewer",
       "owners": [
         {
@@ -170,7 +176,7 @@
           "metadata": { "reviewUsername": "Vincent Barrette" }
         },
         {
-          "username": "Bru (Reward)",
+          "username": "KeyLimePyro (REWARD)",
           "metadata": { "reviewUsername": "Frank Geddes" }
         },
         {
