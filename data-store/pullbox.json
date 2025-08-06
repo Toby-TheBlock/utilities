@@ -13,6 +13,12 @@
       "owners": [{ "username": "MentallyGrimm" }]
     },
     {
+      "name": "marble",
+      "priority": 9,
+      "tooltip": "Marble Wizard",
+      "owners": [{ "username": "KeyLimePyro (REWARD)" }]
+    },
+    {
       "name": "gold_supporter",
       "priority": 10,
       "tooltip": "Gold tier supporter",
@@ -52,10 +58,10 @@
           "username": "VENUM Code : VENUM"
         },
         {
-          "username": "🔥Tiny Satan(666)🔥"
+          "username": "MachZero (MACH)"
         },
         {
-          "username": "MachZero (MACH)"
+          "username": "🔥Tiny Satan(666)🔥"
         },
         {
           "username": "Bobcigarette"
@@ -101,10 +107,10 @@
           "username": "meishe"
         },
         {
-          "username": "[NULL]"
+          "username": "OTTERbox"
         },
         {
-          "username": "OTTERbox"
+          "username": "[NULL]"
         },
         {
           "username": "spedinki [WORM]"
@@ -122,30 +128,24 @@
           "username": "Vahdis"
         },
         {
-          "username": "waifuwarrior9000"
-        },
-        {
           "username": "Mio (SEAGULL)"
         },
         {
           "username": "Azathar"
         },
         {
+          "username": "subduedkingfisher862"
+        },
+        {
+          "username": "KeyLimePyro (REWARD)"
+        },
+        {
           "username": "Nomad code:(LYOKO)"
         },
         {
           "username": "swedishstyle"
-        },
-        {
-          "username": "subduedkingfisher862"
         }
       ]
-    },
-    {
-      "name": "marble",
-      "priority": 1500,
-      "tooltip": "Marble Wizard",
-      "owners": [{ "username": "KeyLimePyro (REWARD)" }]
     },
     {
       "name": "reviewer",
