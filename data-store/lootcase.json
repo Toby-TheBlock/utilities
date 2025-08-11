@@ -1,0 +1,40 @@
+{
+  "badges": [
+    {
+      "name": "creator",
+      "priority": 1,
+      "tooltip": "Extension creator",
+      "owners": [{ "username": "Toby TheBlock" }]
+    },
+    {
+      "name": "marble",
+      "priority": 9,
+      "tooltip": "Marble Wizard",
+      "owners": [{ "username": "KeyLimePyro (REWARD)" }]
+    },
+    {
+      "name": "gold_supporter",
+      "priority": 10,
+      "tooltip": "Gold tier supporter",
+      "owners": []
+    },
+    {
+      "name": "silver_supporter",
+      "priority": 100,
+      "tooltip": "Silver tier supporter",
+      "owners": []
+    },
+    {
+      "name": "bronze_supporter",
+      "priority": 1000,
+      "tooltip": "Bronze tier supporter",
+      "owners": []
+    },
+    {
+      "name": "reviewer",
+      "priority": 2000,
+      "tooltip": "Reviewer",
+      "owners": []
+    }
+  ]
+}
