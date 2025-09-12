@@ -34,7 +34,16 @@
       "name": "reviewer",
       "priority": 2000,
       "tooltip": "Reviewer",
-      "owners": []
+      "owners": [
+        {
+          "username": "mariejane",
+          "metadata": { "reviewUsername": "Firefox user 19334722" }
+        },
+        {
+          "username": "Dakkon15639",
+          "metadata": { "reviewUsername": "DemitrusGunn" }
+        },
+      ]
     }
   ]
 }
