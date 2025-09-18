@@ -14,7 +14,7 @@
     },
     {
       "name": "smile",
-      "priority": 8,
+      "priority": 8000,
       "tooltip": "Smile",
       "owners": [{ "username": "Kram" }]
     },
