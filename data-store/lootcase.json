@@ -28,7 +28,11 @@
       "name": "bronze_supporter",
       "priority": 1000,
       "tooltip": "Bronze tier supporter",
-      "owners": []
+      "owners": [
+        {
+          "username": "Obsihc"
+        }
+      ]
     },
     {
       "name": "reviewer",
