@@ -14,15 +14,25 @@
     },
     {
       "name": "smile",
-      "priority": 8,
+      "priority": 10,
       "tooltip": "Just a chill guy",
       "owners": [{ "username": "Kram" }]
     },
     {
       "name": "marble",
-      "priority": 8,
+      "priority": 10,
       "tooltip": "Marble Wizard",
       "owners": [{ "username": "KeyLimePyro (REWARD)" }]
+    },
+    {
+      "name": "ruby_supporter",
+      "priority": 8,
+      "tooltip": "Ruby tier supporter",
+      "owners": [
+        {
+          "username": "treasuredreindeer568"
+        }
+      ]
     },
     {
       "name": "diamond_supporter",
@@ -125,7 +135,7 @@
           "username": "theshortcircuit"
         },
         {
-          "username": "‎ ‎ ‎ ‎ Moth (LAMPS)"
+          "username": "‎ ‎ ‎ ‎ Pigeon (BREAD)"
         },
         {
           "username": "YoseMighty cd: HAKI"
@@ -183,19 +193,19 @@
           "username": "BigDigRick42 [BDR42]"
         },
         {
-          "username": "Paintedship(PAINTED)"
-        },
-        {
           "username": "Dakkon (LANDDROP)"
         },
         {
-          "username": "Vahdis"
+          "username": "ArchangelJace (JACE5)"
+        },
+        {
+          "username": "Paintedship(PAINTED)"
         },
         {
           "username": "waifuwarrior9000"
         },
         {
-          "username": "ArchangelJace (JACE5)"
+          "username": "Vahdis"
         },
         {
           "username": "Mio (SEAGULL)"
@@ -207,6 +217,9 @@
           "username": "Azathar"
         },
         {
+          "username": "Arcanition"
+        },
+        {
           "username": "swedishstyle"
         },
         {
@@ -216,16 +229,13 @@
           "username": "Maffo725 - (MAFFO)"
         },
         {
-          "username": "Arcanition"
-        },
-        {
-          "username": "KeyLimePyro (REWARD)"
+          "username": "Nomad (LYOKO)"
         },
         {
           "username": "Spirit (OF) Festivus💈"
         },
         {
-          "username": "Nomad (LYOKO)"
+          "username": "KeyLimePyro (REWARD)"
         },
         {
           "username": "TrueFoz"
