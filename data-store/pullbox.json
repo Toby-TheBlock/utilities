@@ -26,7 +26,7 @@
     },
     {
       "name": "ruby_supporter",
-      "priority": 8,
+      "priority": 600,
       "tooltip": "Ruby tier supporter",
       "owners": [
         {
@@ -36,12 +36,9 @@
     },
     {
       "name": "diamond_supporter",
-      "priority": 9,
+      "priority": 700,
       "tooltip": "Diamond tier supporter",
       "owners": [
-        {
-          "username": "treasuredreindeer568"
-        },
         {
           "username": "trivialchinchilla944"
         },
@@ -52,7 +49,7 @@
     },
     {
       "name": "gold_supporter",
-      "priority": 10,
+      "priority": 800,
       "tooltip": "Gold tier supporter",
       "owners": [
         {
@@ -86,7 +83,7 @@
     },
     {
       "name": "silver_supporter",
-      "priority": 100,
+      "priority": 900,
       "tooltip": "Silver tier supporter",
       "owners": [
         {
@@ -144,10 +141,10 @@
           "username": "notazombiecat"
         },
         {
-          "username": "OneStepAtATime •KOLI•"
+          "username": "subduedkingfisher862"
         },
         {
-          "username": "subduedkingfisher862"
+          "username": "OneStepAtATime •KOLI•"
         },
         {
           "username": "YoungBruun",
@@ -190,13 +187,13 @@
           "username": "Sal Vulcano (Code: SAL)"
         },
         {
+          "username": "ArchangelJace (JACE5)"
+        },
+        {
           "username": "BigDigRick42 [BDR42]"
         },
         {
           "username": "Dakkon (LANDDROP)"
-        },
-        {
-          "username": "ArchangelJace (JACE5)"
         },
         {
           "username": "Paintedship(PAINTED)"
@@ -208,10 +205,10 @@
           "username": "Vahdis"
         },
         {
-          "username": "Mio (SEAGULL)"
+          "username": "TheRealAlkali (ALKALI)"
         },
         {
-          "username": "TheRealAlkali (ALKALI)"
+          "username": "Mio (SEAGULL)"
         },
         {
           "username": "Azathar"
@@ -220,22 +217,22 @@
           "username": "Arcanition"
         },
         {
+          "username": "Maffo725 - (MAFFO)"
+        },
+        {
           "username": "swedishstyle"
         },
         {
           "username": "GEEDIS"
         },
         {
-          "username": "Maffo725 - (MAFFO)"
-        },
-        {
-          "username": "Nomad (LYOKO)"
-        },
-        {
           "username": "Spirit (OF) Festivus💈"
         },
         {
           "username": "KeyLimePyro (REWARD)"
+        },
+        {
+          "username": "Nomad (LYOKO)"
         },
         {
           "username": "TrueFoz"
