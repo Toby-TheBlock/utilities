@@ -26,11 +26,21 @@
     },
     {
       "name": "ruby_supporter",
-      "priority": 600,
+      "priority": 500,
       "tooltip": "Ruby tier supporter",
       "owners": [
         {
           "username": "treasuredreindeer568"
+        }
+      ]
+    },
+    {
+      "name": "sapphire_supporter",
+      "priority": 600,
+      "tooltip": "Sapphire tier supporter",
+      "owners": [
+        {
+          "username": "david22222"
         }
       ]
     },
@@ -96,19 +106,19 @@
           "username": "TenshiFire"
         },
         {
-          "username": "knowledgeablehornet795"
+          "username": "LaughAndAHalf"
         },
         {
-          "username": "LaughAndAHalf"
+          "username": "knowledgeablehornet795"
         },
         {
           "username": "arcas"
         },
         {
-          "username": "GRYZ"
+          "username": "MachZero (MACH)"
         },
         {
-          "username": "MachZero (MACH)"
+          "username": "GRYZ"
         },
         {
           "username": "code BUG"
@@ -138,13 +148,13 @@
           "username": "theshortcircuit"
         },
         {
+          "username": "subduedkingfisher862"
+        },
+        {
           "username": "‎ ‎ ‎ ‎ Pigeon (BREAD)"
         },
         {
           "username": "YoseMighty cd: HAKI"
-        },
-        {
-          "username": "subduedkingfisher862"
         },
         {
           "username": "notazombiecat"
@@ -178,10 +188,10 @@
           "username": "meishe"
         },
         {
-          "username": "lilbabybingus"
+          "username": "Nox"
         },
         {
-          "username": "Nox"
+          "username": "swedishstyle"
         },
         {
           "username": "Tybo (TYBO)"
@@ -191,9 +201,6 @@
         },
         {
           "username": "chronomoon (CHRONOMOON)"
-        },
-        {
-          "username": "swedishstyle"
         },
         {
           "username": "AK(Code: Bone)"
@@ -211,10 +218,10 @@
           "username": "BigDigRick42 [BDR42]"
         },
         {
-          "username": "Dakkon (LANDDROP)"
+          "username": "Paintedship(PAINTED)"
         },
         {
-          "username": "Paintedship(PAINTED)"
+          "username": "Dakkon (LANDDROP)"
         },
         {
           "username": "Vahdis"
