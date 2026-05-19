@@ -16,13 +16,24 @@
       "name": "gold_supporter",
       "priority": 10,
       "tooltip": "Gold tier supporter",
-      "owners": []
+      "owners": [
+        {
+          "username": "Obsihc"
+        }
+      ]
     },
     {
       "name": "silver_supporter",
       "priority": 100,
       "tooltip": "Silver tier supporter",
-      "owners": []
+      "owners": [
+        {
+          "username": "sylphe7999"
+        },
+        {
+          "username": "Heckinchicken"
+        }
+      ]
     },
     {
       "name": "bronze_supporter",
@@ -30,10 +41,10 @@
       "tooltip": "Bronze tier supporter",
       "owners": [
         {
-          "username": "Obsihc"
+          "username": "jjdeno99"
         },
         {
-          "username": "jjdeno99"
+          "username": "Shon802"
         }
       ]
     },
